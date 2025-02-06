@@ -1,0 +1,1656 @@
+{
+  "documents": [
+    {
+      "id": "1",
+      "entities": [
+        {
+          "text": "reasoning system",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 23,
+          "length": 16,
+          "confidenceScore": 0.97,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.97
+            }
+          ]
+        },
+        {
+          "text": "analyze",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 93,
+          "length": 7,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "sentiment analysis",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 149,
+          "length": 18,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "real-time data",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 211,
+          "length": 14,
+          "confidenceScore": 0.95,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.95
+            }
+          ]
+        },
+        {
+          "text": "error handling",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 280,
+          "length": 14,
+          "confidenceScore": 0.96,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.96
+            }
+          ]
+        },
+        {
+          "text": "configuration management",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 296,
+          "length": 24,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "asynchronous handling",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 322,
+          "length": 21,
+          "confidenceScore": 0.98,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.98
+            }
+          ]
+        },
+        {
+          "text": "dependency injection",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 345,
+          "length": 20,
+          "confidenceScore": 0.92,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.92
+            }
+          ]
+        },
+        {
+          "text": "testing",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 372,
+          "length": 7,
+          "confidenceScore": 0.59,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.59
+            }
+          ]
+        },
+        {
+          "text": "security",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 385,
+          "length": 8,
+          "confidenceScore": 0.97,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.97
+            }
+          ]
+        },
+        {
+          "text": "methodologies",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 461,
+          "length": 13,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "code components",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 490,
+          "length": 15,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "AIConfig class",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 565,
+          "length": 14,
+          "confidenceScore": 0.81,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.81
+            }
+          ]
+        },
+        {
+          "text": "configuration settings",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 590,
+          "length": 22,
+          "confidenceScore": 0.96,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.96
+            }
+          ]
+        },
+        {
+          "text": "initialize",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 614,
+          "length": 10,
+          "confidenceScore": 0.74,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.74
+            }
+          ]
+        },
+        {
+          "text": "models",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 625,
+          "length": 6,
+          "confidenceScore": 0.77,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.77
+            }
+          ]
+        },
+        {
+          "text": "load",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 637,
+          "length": 4,
+          "confidenceScore": 0.55,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.55
+            }
+          ]
+        },
+        {
+          "text": "encryption",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 642,
+          "length": 10,
+          "confidenceScore": 0.82,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.82
+            }
+          ]
+        },
+        {
+          "text": "configuration",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 691,
+          "length": 13,
+          "confidenceScore": 0.84,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.84
+            }
+          ]
+        },
+        {
+          "text": "Memory Management",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 720,
+          "length": 17,
+          "confidenceScore": 0.89,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.89
+            }
+          ]
+        },
+        {
+          "text": "in-memory",
+          "category": "Product",
+          "type": "Product",
+          "offset": 751,
+          "length": 9,
+          "confidenceScore": 0.58,
+          "tags": [
+            {
+              "name": "Product",
+              "confidenceScore": 0.58
+            }
+          ]
+        },
+        {
+          "text": "storage",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 761,
+          "length": 7,
+          "confidenceScore": 0.52,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.52
+            }
+          ]
+        },
+        {
+          "text": "observations",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 798,
+          "length": 12,
+          "confidenceScore": 0.59,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.59
+            }
+          ]
+        },
+        {
+          "text": "AIConfig",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 831,
+          "length": 8,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "AICore",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 844,
+          "length": 6,
+          "confidenceScore": 0.93,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.93
+            }
+          ]
+        },
+        {
+          "text": "sentiment analysis tools",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 883,
+          "length": 24,
+          "confidenceScore": 0.97,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.97
+            }
+          ]
+        },
+        {
+          "text": "VADER",
+          "category": "Product",
+          "subcategory": "ComputingProduct",
+          "type": "ComputingProduct",
+          "offset": 916,
+          "length": 5,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "ComputingProduct",
+              "confidenceScore": 1
+            },
+            {
+              "name": "Product",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "NLP analysis pipelines",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1014,
+          "length": 22,
+          "confidenceScore": 0.85,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.85
+            }
+          ]
+        },
+        {
+          "text": "AICore",
+          "category": "Product",
+          "subcategory": "ComputingProduct",
+          "type": "ComputingProduct",
+          "offset": 1044,
+          "length": 6,
+          "confidenceScore": 0.87,
+          "tags": [
+            {
+              "name": "ComputingProduct",
+              "confidenceScore": 0.87
+            },
+            {
+              "name": "Product",
+              "confidenceScore": 0.87
+            }
+          ]
+        },
+        {
+          "text": "Frame",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1101,
+          "length": 5,
+          "confidenceScore": 0.83,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.83
+            }
+          ]
+        },
+        {
+          "text": "logic",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1107,
+          "length": 5,
+          "confidenceScore": 0.69,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.69
+            }
+          ]
+        },
+        {
+          "text": "memory",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1152,
+          "length": 6,
+          "confidenceScore": 0.68,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.68
+            }
+          ]
+        },
+        {
+          "text": "system inputs",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1185,
+          "length": 13,
+          "confidenceScore": 0.98,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.98
+            }
+          ]
+        },
+        {
+          "text": "Log",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1252,
+          "length": 3,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "logging system",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1305,
+          "length": 14,
+          "confidenceScore": 0.92,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.92
+            }
+          ]
+        },
+        {
+          "text": "encryption",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1388,
+          "length": 10,
+          "confidenceScore": 0.98,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.98
+            }
+          ]
+        },
+        {
+          "text": "AICore",
+          "category": "Product",
+          "subcategory": "ComputingProduct",
+          "type": "ComputingProduct",
+          "offset": 1415,
+          "length": 6,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "ComputingProduct",
+              "confidenceScore": 1
+            },
+            {
+              "name": "Product",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "mask",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1436,
+          "length": 4,
+          "confidenceScore": 0.62,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.62
+            }
+          ]
+        },
+        {
+          "text": "data fetching",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1518,
+          "length": 13,
+          "confidenceScore": 0.99,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.99
+            }
+          ]
+        },
+        {
+          "text": "functions",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1539,
+          "length": 9,
+          "confidenceScore": 0.82,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.82
+            }
+          ]
+        },
+        {
+          "text": "real-time responses",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1572,
+          "length": 19,
+          "confidenceScore": 0.98,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.98
+            }
+          ]
+        },
+        {
+          "text": "error handling",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1610,
+          "length": 14,
+          "confidenceScore": 0.97,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.97
+            }
+          ]
+        },
+        {
+          "text": "asynchronous operations",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1629,
+          "length": 23,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "Processing",
+          "category": "Event",
+          "type": "Event",
+          "offset": 1667,
+          "length": 10,
+          "confidenceScore": 0.51,
+          "tags": [
+            {
+              "name": "Event",
+              "confidenceScore": 0.51
+            }
+          ]
+        },
+        {
+          "text": "APIs",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1709,
+          "length": 4,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "processing",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1718,
+          "length": 10,
+          "confidenceScore": 0.96,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.96
+            }
+          ]
+        },
+        {
+          "text": "functions",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1729,
+          "length": 9,
+          "confidenceScore": 0.52,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.52
+            }
+          ]
+        },
+        {
+          "text": "manipulate data",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1759,
+          "length": 15,
+          "confidenceScore": 0.74,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.74
+            }
+          ]
+        },
+        {
+          "text": "system",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1813,
+          "length": 6,
+          "confidenceScore": 0.97,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.97
+            }
+          ]
+        },
+        {
+          "text": "Interaction Analysis",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1879,
+          "length": 20,
+          "confidenceScore": 0.98,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.98
+            }
+          ]
+        },
+        {
+          "text": "interactions",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 1942,
+          "length": 12,
+          "confidenceScore": 0.62,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.62
+            }
+          ]
+        },
+        {
+          "text": "Configuration Management",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2039,
+          "length": 24,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "pydantic",
+          "category": "Product",
+          "type": "Product",
+          "offset": 2073,
+          "length": 8,
+          "confidenceScore": 0.89,
+          "tags": [
+            {
+              "name": "Product",
+              "confidenceScore": 0.89
+            }
+          ]
+        },
+        {
+          "text": "configuration settings",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2145,
+          "length": 22,
+          "confidenceScore": 0.99,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.99
+            }
+          ]
+        },
+        {
+          "text": "configurations",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2177,
+          "length": 14,
+          "confidenceScore": 0.56,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.56
+            }
+          ]
+        },
+        {
+          "text": "Asynchronous",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2219,
+          "length": 12,
+          "confidenceScore": 0.77,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.77
+            }
+          ]
+        },
+        {
+          "text": "functions",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2292,
+          "length": 9,
+          "confidenceScore": 0.78,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.78
+            }
+          ]
+        },
+        {
+          "text": "asynchronously",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2310,
+          "length": 14,
+          "confidenceScore": 0.52,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.52
+            }
+          ]
+        },
+        {
+          "text": "asyncio",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2336,
+          "length": 7,
+          "confidenceScore": 0.94,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.94
+            }
+          ]
+        },
+        {
+          "text": "AICore",
+          "category": "Product",
+          "subcategory": "ComputingProduct",
+          "type": "ComputingProduct",
+          "offset": 2373,
+          "length": 6,
+          "confidenceScore": 0.93,
+          "tags": [
+            {
+              "name": "ComputingProduct",
+              "confidenceScore": 0.93
+            },
+            {
+              "name": "Product",
+              "confidenceScore": 0.93
+            }
+          ]
+        },
+        {
+          "text": "dependency injection",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2385,
+          "length": 20,
+          "confidenceScore": 0.95,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.95
+            }
+          ]
+        },
+        {
+          "text": "code modularity",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2417,
+          "length": 15,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "testing",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2437,
+          "length": 7,
+          "confidenceScore": 0.91,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.91
+            }
+          ]
+        },
+        {
+          "text": "Testing",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2466,
+          "length": 7,
+          "confidenceScore": 0.54,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.54
+            }
+          ]
+        },
+        {
+          "text": "testing",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2517,
+          "length": 7,
+          "confidenceScore": 0.75,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.75
+            }
+          ]
+        },
+        {
+          "text": "code accuracy",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2535,
+          "length": 13,
+          "confidenceScore": 0.97,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.97
+            }
+          ]
+        },
+        {
+          "text": "docstring",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2582,
+          "length": 9,
+          "confidenceScore": 0.99,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.99
+            }
+          ]
+        },
+        {
+          "text": "code clarity",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2615,
+          "length": 12,
+          "confidenceScore": 0.91,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.91
+            }
+          ]
+        },
+        {
+          "text": "maintenance",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2639,
+          "length": 11,
+          "confidenceScore": 0.99,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.99
+            }
+          ]
+        },
+        {
+          "text": "Security",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2657,
+          "length": 8,
+          "confidenceScore": 0.61,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.61
+            }
+          ]
+        },
+        {
+          "text": "security",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2700,
+          "length": 8,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "validating inputs",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2718,
+          "length": 17,
+          "confidenceScore": 0.88,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.88
+            }
+          ]
+        },
+        {
+          "text": "sanitizing outputs",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2737,
+          "length": 18,
+          "confidenceScore": 0.99,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.99
+            }
+          ]
+        },
+        {
+          "text": "encryption",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2771,
+          "length": 10,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "dependencies",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2858,
+          "length": 12,
+          "confidenceScore": 0.69,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.69
+            }
+          ]
+        },
+        {
+          "text": "AIConfig",
+          "category": "Product",
+          "subcategory": "ComputingProduct",
+          "type": "ComputingProduct",
+          "offset": 2879,
+          "length": 8,
+          "confidenceScore": 0.99,
+          "tags": [
+            {
+              "name": "ComputingProduct",
+              "confidenceScore": 0.99
+            },
+            {
+              "name": "Product",
+              "confidenceScore": 0.99
+            }
+          ]
+        },
+        {
+          "text": "AICore",
+          "category": "Product",
+          "subcategory": "ComputingProduct",
+          "type": "ComputingProduct",
+          "offset": 2892,
+          "length": 6,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "ComputingProduct",
+              "confidenceScore": 1
+            },
+            {
+              "name": "Product",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "libraries",
+          "category": "Location",
+          "subcategory": "Structural",
+          "type": "Structural",
+          "offset": 2914,
+          "length": 9,
+          "confidenceScore": 0.51,
+          "tags": [
+            {
+              "name": "Structural",
+              "confidenceScore": 0.51
+            },
+            {
+              "name": "Location",
+              "confidenceScore": 0.51
+            }
+          ]
+        },
+        {
+          "text": "2.",
+          "category": "Quantity",
+          "subcategory": "Number",
+          "type": "Number",
+          "offset": 2935,
+          "length": 2,
+          "confidenceScore": 0.51,
+          "tags": [
+            {
+              "name": "Number",
+              "confidenceScore": 0.51
+            },
+            {
+              "name": "Quantity",
+              "confidenceScore": 0.51
+            },
+            {
+              "name": "Numeric",
+              "confidenceScore": 0.51
+            }
+          ],
+          "metadata": {
+            "metadataKind": "NumberMetadata",
+            "numberKind": "Integer",
+            "value": 2
+          }
+        },
+        {
+          "text": "Memory Management",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2950,
+          "length": 17,
+          "confidenceScore": 0.99,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.99
+            }
+          ]
+        },
+        {
+          "text": "Design",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2971,
+          "length": 6,
+          "confidenceScore": 0.73,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.73
+            }
+          ]
+        },
+        {
+          "text": "memory structures",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 2981,
+          "length": 17,
+          "confidenceScore": 0.59,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.59
+            }
+          ]
+        },
+        {
+          "text": "3.",
+          "category": "Quantity",
+          "subcategory": "Number",
+          "type": "Number",
+          "offset": 3033,
+          "length": 2,
+          "confidenceScore": 0.64,
+          "tags": [
+            {
+              "name": "Number",
+              "confidenceScore": 0.64
+            },
+            {
+              "name": "Quantity",
+              "confidenceScore": 0.64
+            },
+            {
+              "name": "Numeric",
+              "confidenceScore": 0.64
+            }
+          ],
+          "metadata": {
+            "metadataKind": "NumberMetadata",
+            "numberKind": "Integer",
+            "value": 3
+          }
+        },
+        {
+          "text": "Develop",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3038,
+          "length": 7,
+          "confidenceScore": 0.74,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.74
+            }
+          ]
+        },
+        {
+          "text": "Analysis",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3056,
+          "length": 8,
+          "confidenceScore": 0.57,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.57
+            }
+          ]
+        },
+        {
+          "text": "analysis",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3078,
+          "length": 8,
+          "confidenceScore": 0.81,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.81
+            }
+          ]
+        },
+        {
+          "text": "VADER",
+          "category": "Product",
+          "subcategory": "ComputingProduct",
+          "type": "ComputingProduct",
+          "offset": 3098,
+          "length": 5,
+          "confidenceScore": 0.99,
+          "tags": [
+            {
+              "name": "ComputingProduct",
+              "confidenceScore": 0.99
+            },
+            {
+              "name": "Product",
+              "confidenceScore": 0.99
+            }
+          ]
+        },
+        {
+          "text": "NLP",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3143,
+          "length": 3,
+          "confidenceScore": 0.85,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.85
+            }
+          ]
+        },
+        {
+          "text": "4.",
+          "category": "Quantity",
+          "subcategory": "Number",
+          "type": "Number",
+          "offset": 3158,
+          "length": 2,
+          "confidenceScore": 0.7,
+          "tags": [
+            {
+              "name": "Number",
+              "confidenceScore": 0.7
+            },
+            {
+              "name": "Quantity",
+              "confidenceScore": 0.7
+            },
+            {
+              "name": "Numeric",
+              "confidenceScore": 0.7
+            }
+          ],
+          "metadata": {
+            "metadataKind": "NumberMetadata",
+            "numberKind": "Integer",
+            "value": 4
+          }
+        },
+        {
+          "text": "logic",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3200,
+          "length": 5,
+          "confidenceScore": 0.94,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.94
+            }
+          ]
+        },
+        {
+          "text": "system",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3243,
+          "length": 6,
+          "confidenceScore": 0.62,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.62
+            }
+          ]
+        },
+        {
+          "text": "historical memory",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3261,
+          "length": 17,
+          "confidenceScore": 0.73,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.73
+            }
+          ]
+        },
+        {
+          "text": "Real-Time Data Incorporation",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3299,
+          "length": 28,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "Develop",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3331,
+          "length": 7,
+          "confidenceScore": 0.92,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.92
+            }
+          ]
+        },
+        {
+          "text": "real-time data",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3357,
+          "length": 14,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "asynchronous handling",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3385,
+          "length": 21,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "6.",
+          "category": "Quantity",
+          "subcategory": "Number",
+          "type": "Number",
+          "offset": 3408,
+          "length": 2,
+          "confidenceScore": 0.63,
+          "tags": [
+            {
+              "name": "Number",
+              "confidenceScore": 0.63
+            },
+            {
+              "name": "Quantity",
+              "confidenceScore": 0.63
+            },
+            {
+              "name": "Numeric",
+              "confidenceScore": 0.63
+            }
+          ],
+          "metadata": {
+            "metadataKind": "NumberMetadata",
+            "numberKind": "Integer",
+            "value": 6
+          }
+        },
+        {
+          "text": "System Testing",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3421,
+          "length": 14,
+          "confidenceScore": 0.66,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.66
+            }
+          ]
+        },
+        {
+          "text": "unit tests",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3460,
+          "length": 10,
+          "confidenceScore": 0.97,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.97
+            }
+          ]
+        },
+        {
+          "text": "performance validation",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3505,
+          "length": 22,
+          "confidenceScore": 0.88,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.88
+            }
+          ]
+        },
+        {
+          "text": "Output Format",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3546,
+          "length": 13,
+          "confidenceScore": 0.89,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.89
+            }
+          ]
+        },
+        {
+          "text": "system log",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3572,
+          "length": 10,
+          "confidenceScore": 0.88,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.88
+            }
+          ]
+        },
+        {
+          "text": "JSON",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3634,
+          "length": 4,
+          "confidenceScore": 0.93,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.93
+            }
+          ]
+        },
+        {
+          "text": "real-time responses",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3657,
+          "length": 19,
+          "confidenceScore": 0.66,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.66
+            }
+          ]
+        },
+        {
+          "text": "sentiment analyses",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3710,
+          "length": 18,
+          "confidenceScore": 0.84,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.84
+            }
+          ]
+        },
+        {
+          "text": "customer service",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 3887,
+          "length": 16,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "Fetch",
+          "category": "Location",
+          "subcategory": "City",
+          "type": "City",
+          "offset": 4168,
+          "length": 5,
+          "confidenceScore": 0.58,
+          "tags": [
+            {
+              "name": "City",
+              "confidenceScore": 0.58
+            },
+            {
+              "name": "GPE",
+              "confidenceScore": 0.58
+            },
+            {
+              "name": "Location",
+              "confidenceScore": 0.58
+            }
+          ]
+        },
+        {
+          "text": "AI",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 4189,
+          "length": 2,
+          "confidenceScore": 1,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 1
+            }
+          ]
+        },
+        {
+          "text": "security protocols",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 4347,
+          "length": 18,
+          "confidenceScore": 0.84,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.84
+            }
+          ]
+        },
+        {
+          "text": "analysis methodologies",
+          "category": "Skill",
+          "type": "Skill",
+          "offset": 4477,
+          "length": 22,
+          "confidenceScore": 0.88,
+          "tags": [
+            {
+              "name": "Skill",
+              "confidenceScore": 0.88
+            }
+          ]
+        }
+      ],
+      "warnings": []
+    }
+  ],
+  "errors": [],
+  "modelVersion": "2024-04-15-preview"

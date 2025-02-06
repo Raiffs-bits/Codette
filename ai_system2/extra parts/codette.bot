@@ -1,0 +1,32 @@
+{
+    "name": "codette",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "https://api.openai.com/v1/models/{asst_jIY7UdjlQaqzPOwlo3HvfJjh}",
+            "id": "f7c07a50-e483-11ef-b57d-335077ae3603",
+            "appId": "",
+            "appPassword": "",
+            "tenantId": "",
+            "endpoint": "https://api.openai.com/v1/models/{asst_jIY7UdjlQaqzPOwlo3HvfJjh}"
+        },
+        {
+            "type": "endpoint",
+            "endpoint": " https://api.openai.com/v1/chat/completions/api/messages",
+            "name": "coddetes place",
+            "appId": "gpt-4o-2024-08-06",
+            "id": "c6aaa7a0-e489-11ef-8b63-55c5a6f3bb56"
+        },
+        {
+            "type": "endpoint",
+            "endpoint": "https://3950-2605-a601-a0a7-f600-dccf-249d-45bf-2dd0.ngrok-free.app",
+            "name": "ngrok",
+            "id": "463171c0-e48a-11ef-8b63-55c5a6f3bb56"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "G:\\ai_system2\\codette.bot",
+    "overrides": null
+}

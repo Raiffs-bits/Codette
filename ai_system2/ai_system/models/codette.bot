@@ -1,0 +1,26 @@
+{
+	"name": "codette",
+	"description": "Codette bot configuration file",
+	"services": [
+		{
+			"type": "endpoint",
+			"name": "https://app.codegpt.co/chat/share/42860994-8d68-477a-80d1-d2536e45176b/?pincode=m83nnq",
+			"id": "ae2ee370-e480-11ef-b57d-335077ae3603",
+			"appId": "your-app-id",
+			"appPassword": "your-app-password",
+			"tenantId": "your-tenant-id",
+			"endpoint": "https://app.codegpt.co/chat/share/42860994-8d68-477a-80d1-d2536e45176b/?pincode=m83nnq"
+		},
+		{
+			"type": "generic",
+			"name": "tunnel",
+			"url": "https://3950-2605-a601-a0a7-f600-dccf-249d-45bf-2dd0.ngrok-free.app",
+			"id": "20ad4c70-e48b-11ef-8b63-55c5a6f3bb56"
+		}
+	],
+	"padlock": "your-padlock-value",
+	"version": "2.0",
+	"path": "G:\\ai_system2\\ai_system\\codette.bot",
+	"overrides": null
+}
+

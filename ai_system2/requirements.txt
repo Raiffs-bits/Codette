@@ -1,0 +1,4 @@
+aiohttp
+transformers
+scikit-learn
+sqlite3
