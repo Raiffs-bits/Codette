@@ -19,7 +19,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
         activate-environment: base
         auto-update-conda: true
-        miniforge-variant: Mambaforge  # Use Mambaforge for faster dependency resolution
+        miniforge-variant: Miniconda  # Use Miniconda as a fallback installer
 
     - name: Cache conda
       uses: actions/cache@v3
