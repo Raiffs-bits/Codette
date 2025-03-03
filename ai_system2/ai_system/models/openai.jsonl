@@ -1,8 +1,0 @@
-curl https://api.openai.com/v1/chat/completions \
-  -H "Content-Type: application/json" \
-  -H "Authorization: Bearer $k-proj-rZdypMyCqTOO-bdqdvliATRBtW7Q1CXIoH53figL0k1fW4YRSGa2g02KXmdcQ_BFaOHLwFpeWQT3BlbkFJZJqkEfHZBFNlzTP3KwezPsmdaWQ3TTm6gCEsMLc8fiVK_RwQ7ANMyoL2DBjpk7WteMBWYYsTAA \
-  -d '{
-     "model": "gpt-4o-mini",
-     "messages": [{"role": "user", "content": "Say this is a test!"}],
-     "temperature": 0.7
-   }'
